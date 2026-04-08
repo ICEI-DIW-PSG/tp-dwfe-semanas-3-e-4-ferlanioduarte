@@ -1,9 +1,11 @@
 # Trabalho Prático - Semanas 3 e 4
 
 ## Informações Gerais
-- Nome: 
-- Matricula:
+- Nome: FERLANIO JOSÉ DUARTE NASCIMENTO
+- Matricula: 927202
 
 ## Print da tela da página criada (Curriculum Vitae)
 
-`<Coloque aqui o print da tela do Curriculum Vitae>`
+
+![print](public/Imgs/foto-perfil.jpg)
+
