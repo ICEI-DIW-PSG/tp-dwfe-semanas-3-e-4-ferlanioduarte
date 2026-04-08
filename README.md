@@ -7,5 +7,5 @@
 ## Print da tela da página criada (Curriculum Vitae)
 
 
-![print](public/Imgs/foto-perfil.jpg)
+![print](public/Imgs/print.png)
 
